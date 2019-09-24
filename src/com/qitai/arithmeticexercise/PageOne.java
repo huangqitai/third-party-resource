@@ -2,7 +2,6 @@ package com.qitai.arithmeticexercise;
 
 import org.junit.Test;
 import java.math.BigInteger;
-import java.util.ArrayList;
 import java.util.Stack;
 import java.util.Vector;
 
@@ -332,5 +331,49 @@ public class PageOne {
                 rc.remove(rc.size()-1);
             }
         }
+    }
+
+    private int countPc=0;
+    @Test
+    public void pcTest(){
+        Vector<Character> ac = new Vector<>();
+        Vector<Character> rc = new Vector<>();
+        for (int i=1 ; i<5;i++){
+            ac.add((char)(i+'0'));
+        }
+        pc(ac,rc);
+        System.out.println(countPc);
+    }
+    public void pc(Vector<Character> ac, Vector<Character> rc){
+
+        if (ac.size()==1){
+            int a = (rc.elementAt(0)-'0')*100+(rc.elementAt(1)-'0')*10+(rc.elementAt(2)-'0');
+            System.out.println(a);
+            countPc++;
+        }
+        else{
+            for (int i=0;i<ac.size();i++){
+                rc.add(ac.elementAt(i));
+                ac.remove(i);
+                pc(ac,rc);
+                ac.add(i,rc.elementAt(rc.size()-1));
+                rc.remove(rc.size()-1);
+            }
+        }
+
+    }
+
+    /**
+     * 求1+2!+3!+...+20!的和
+     */
+    @Test
+    public void recursiveTest(){
+        System.out.println(recursive(5));
+    }
+    private int recursive(int num){
+        if (num!=1){
+            return num*recursive(num-1);
+        }
+        else return 1;
     }
 }
