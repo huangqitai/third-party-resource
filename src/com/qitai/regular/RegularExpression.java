@@ -194,6 +194,20 @@ public class RegularExpression {
         System.out.println(Pattern.matches("<[a-zA-Z]{1,}>","<title>"));
     }
 
+    @Test
+    public void regularTest3(){
+        String url = "http://localhost:8080/gdbdcWebService/doc/forward";
+        String reUrl = "(/doc/)(.*)";
+        Pattern pattern = Pattern.compile(reUrl);
+        Matcher matcher = pattern.matcher(url);
+        while (matcher.find()){
+            System.out.println(matcher.group());
+        }
+
+        url = "/doc/forward";
+        System.out.println(url.split("(/doc/)")[1]);
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("输入需要验证的字符串：");
@@ -210,5 +224,10 @@ public class RegularExpression {
         String url = null;
         System.out.println("true".equals(url));
         System.out.println(url.equals("true"));
+    }
+
+    @Test
+    public void test4(){
+        System.out.println(true||false);
     }
 }
