@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm-manage-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a8da27f-e5ef-4041-8f28-ede590d5f913" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/ssm-manage/ssm-manage-dao/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-manage/ssm-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-manage/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-manage/ssm-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-manage/ssm-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-commons/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/properties/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/mapper/SysUserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-dao/src/main/java/com/youmeek/ssm/manage/mapper/SysUserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/java/com/youmeek/ssm/manage/controller/SysUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/test/java/com/youmeek/ssm/SSMTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/SysUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/impl/SysUserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+                <element signature="e#1484#1485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getById</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/java/com/youmeek/ssm/manage/controller/DemoController.java" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/properties/config.properties" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/mapper/SysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-dao/src/main/java/com/youmeek/ssm/manage/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/test/java/com/youmeek/ssm/SSMTest.java" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/java/com/youmeek/ssm/manage/controller/SysUserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/InstallPackage/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\InstallPackage\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Basic-Multi-Module-SSM.iml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-dao/ssm-manage-dao.iml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-service/ssm-manage-service.iml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage.iml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-web/ssm-manage-web.iml" />
+        <option value="$PROJECT_DIR$/ssm-manage/ssm-manage-pojo/ssm-manage-pojo.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/ssm_manage_web_war.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/ssm_manage_web_war_exploded.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_16_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/ssm-commons/ssm-common.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic-Multi-Module-SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic-Multi-Module-SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/eclipse-workspace/Basic-Multi-Module-SSM" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.22">
+    <configuration name="SSMTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youmeek.ssm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youmeek.ssm" />
+      <option name="MAIN_CLASS_NAME" value="com.youmeek.ssm.SSMTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youmeek.ssm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youmeek.ssm" />
+      <option name="MAIN_CLASS_NAME" value="com.youmeek.ssm.SSMTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youmeek.ssm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youmeek.ssm" />
+      <option name="MAIN_CLASS_NAME" value="com.youmeek.ssm.SSMTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <deployment>
+        <artifact name="ssm-manage-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Basic-Multi-Module-SSM_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60547" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-manage-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SSMTest.test2" />
+        <item itemvalue="JUnit.SSMTest.test3" />
+        <item itemvalue="JUnit.SSMTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a8da27f-e5ef-4041-8f28-ede590d5f913" name="Default Changelist" comment="" />
+      <created>1576746966898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576746966898</updated>
+      <workItem from="1576746969646" duration="12888000" />
+      <workItem from="1576803908170" duration="27204000" />
+    </task>
+    <task id="LOCAL-00001" summary="[+] 模糊查询、插入、更新">
+      <created>1576752387087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576752387087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[+] 模糊查询、插入、更新">
+      <created>1576752410227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576752410227</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[*] 修复">
+      <created>1576757727038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576757727038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[+] 指定字段模糊查询">
+      <created>1576760821894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576760821894</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[+] 指定字段模糊查询">
+      <created>1576760853398</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576760853398</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[*] 注释信息">
+      <created>1576810305114</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576810305114</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[*] demo 服务方法名修改">
+      <created>1576810425916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576810425916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[*] insert update返回值判断">
+      <created>1576813935400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576813935400</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[*] 注释修改">
+      <created>1576814154397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576814154397</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[*] 修改不限定字段模糊查询">
+      <created>1576823959224</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576823959224</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[*] 修改模糊查询">
+      <created>1576826927902</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576826927902</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SSMTest_test2 - 2019.12.20 at 14h 03m 51s.xml">
+      <configuration name="SSMTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test2 - 2019.12.20 at 14h 10m 04s.xml">
+      <configuration name="SSMTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 19m 55s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 21m 41s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 26m 39s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 32m 21s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 33m 45s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 36m 08s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test3 - 2019.12.20 at 14h 36m 55s.xml">
+      <configuration name="SSMTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSMTest_test2 - 2019.12.20 at 15h 27m 51s.xml">
+      <configuration name="SSMTest.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40092000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55409837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22950819" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.40983605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30257186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29508197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5606557" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.6918033" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="[+] 模糊查询、插入、更新" />
+    <MESSAGE value="[*] 修复" />
+    <MESSAGE value="[+] 指定字段模糊查询" />
+    <MESSAGE value="[*] 注释信息" />
+    <MESSAGE value="[*] demo 服务方法名修改" />
+    <MESSAGE value="[*] insert update返回值判断" />
+    <MESSAGE value="[*] 注释修改" />
+    <MESSAGE value="[*] 修改不限定字段模糊查询" />
+    <MESSAGE value="[*] 修改模糊查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="[*] 修改模糊查询" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/test/java/com/youmeek/ssm/SSMTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/test/java/com/youmeek/ssm/SSMTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sysUserService.selectFields()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/youmeek/common/ssm-common/1.0.0-SNAPSHOT/ssm-common-1.0.0-SNAPSHOT.jar!/com/youmeek/ssm/manage/vo/JSONResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-pojo/src/main/java/com/youmeek/ssm/manage/pojo/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/webapp/WEB-INF/view/common/tagPage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/webapp/WEB-INF/view/showUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/mybatis-generator-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/java/com/youmeek/ssm/manage/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-commons/src/main/java/com/youmeek/ssm/manage/common/controller/FormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-commons/src/main/java/com/youmeek/ssm/manage/common/vo/JSONResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-commons/src/main/java/com/youmeek/ssm/manage/common/controller/AbstractController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/test/java/com/youmeek/ssm/SSMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/SysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-service/src/main/java/com/youmeek/ssm/manage/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/properties/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/resources/mapper/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/src/main/java/com/youmeek/ssm/manage/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-manage/ssm-manage-dao/src/main/java/com/youmeek/ssm/manage/mapper/SysUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

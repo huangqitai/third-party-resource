@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="${bussPackage}.entity.${entityPackage}.${className}" > 
+<!-- Result Map-->
+<resultMap id="BaseResultMap" type="${bussPackage}.entity.${entityPackage}.$!{className}" >
+#foreach($item in $!{columnDatas})
+	<result column="$!item.columnName" property="$item.propertyName"/>
+#end
+</resultMap>
+<resultMap id="ResultDTO" type="${bussPackage}.entity.${entityPackage}.$!{className}DTO" >
+#foreach($item in $!{columnDatas})
+	<result column="$!item.columnName" property="$item.propertyName"/>
+#end
+</resultMap>
+       
+<!-- $!{tableName} table all fields -->
+<sql id="Base_Column_List" >
+	 $!{SQL.columnFields}
+</sql>
+   
+   
+<!-- 查询条件 -->
+<sql id="Example_Where_Clause">
+where 1=1
+<trim  suffixOverrides="," >
+#foreach($item in $!{columnDatas})
+	#set($testStr = "parameters." + $!item.propertyName + " != null and parameters." + $!item.propertyName + " != ''")
+<if test="$!testStr" >
+	    and $!item.columnName =  #{parameters.$!item.propertyName}
+	</if>
+#end
+</trim>
+</sql>
+   
+
+<!-- 插入记录 -->
+<insert id="insert" parameterType="${bussPackage}.entity.${entityPackage}.$!{className}" >
+#if  ($keyType =='02')
+<selectKey resultType="java.lang.Integer" order="AFTER" keyProperty="id">
+	SELECT LAST_INSERT_ID()
+  </selectKey>
+#end
+  $!{SQL.insert}
+</insert>
+
+<!-- 根据id，修改记录-->  
+ <update id="update" parameterType="${bussPackage}.entity.${entityPackage}.$!{className}" >
+  $!{SQL.update}
+ </update>
+ 
+ <!-- 修改记录，只修改只不为空的字段 -->
+<update id="updateBySelective" parameterType="${bussPackage}.entity.${entityPackage}.$!{className}" >
+	$!{SQL.updateSelective}
+</update>
+
+<!-- 删除记录 -->
+<delete id="delete" parameterType="Object">
+	$!{SQL.delete}
+</delete>
+ 
+<!-- 根据id查询 ${codeName} -->
+<select id="selectById"  resultMap="BaseResultMap" parameterType="Object">
+	$!{SQL.selectById}
+</select>
+
+<!-- ${codeName} 列表总数-->
+<select id="queryByCount" resultType="java.lang.Integer"  parameterType="Object">
+	select count(1) from ${tableName} 
+	<include refid="Example_Where_Clause"/>
+</select>
+  	
+<!-- 查询${codeName}列表 -->
+<select id="selectByMap" resultMap="BaseResultMap"  parameterType="Pager">
+	select 
+	<include refid="Base_Column_List"/>
+	from ${tableName} 
+	<include refid="Example_Where_Clause"/>
+</select>
+
+<!-- 权限控制代码块 -->
+<sql id="autherizon">
+		and 
+		(
+		e.CREATOR_ID = #{parameters.userId } 
+		or e.PROJECT_MANAGER_ID = #{parameters.userId }
+		<if test="parameters.companyIds != null">
+            or e.COMPANY_ID in
+            <foreach collection="parameters.companyIds" item="item" index="index" open="(" separator="," close=")"> 
+                #{item} 
+            </foreach>
+        </if>
+        <if test="parameters.orgIds != null">
+            or e.creator_dept_id in
+            <foreach collection="parameters.orgIds" item="item" index="index" open="(" separator="," close=")"> 
+                #{item} 
+            </foreach>
+        </if>
+        or (EXISTS (select 1 from FLOW_ACTOR f where f.BUSINESS_KEY = a.id and a.FLOW_DEFINE_KEY=f.FLOW_DEFINE_KEY
+ 		and f.ACTOR_ID=#{currentUser.id} and f.BUSINESS_CODE=#{businessCode}))
+        )
+        and (e.invalid is null or e.invalid != '1')
+</sql>
+</mapper>   

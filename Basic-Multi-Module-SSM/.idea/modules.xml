@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic-Multi-Module-SSM.iml" filepath="$PROJECT_DIR$/.idea/Basic-Multi-Module-SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-commons/ssm-common.iml" filepath="$PROJECT_DIR$/ssm-commons/ssm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manage/ssm-manage.iml" filepath="$PROJECT_DIR$/ssm-manage/ssm-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manage/ssm-manage-dao/ssm-manage-dao.iml" filepath="$PROJECT_DIR$/ssm-manage/ssm-manage-dao/ssm-manage-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manage/ssm-manage-pojo/ssm-manage-pojo.iml" filepath="$PROJECT_DIR$/ssm-manage/ssm-manage-pojo/ssm-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manage/ssm-manage-service/ssm-manage-service.iml" filepath="$PROJECT_DIR$/ssm-manage/ssm-manage-service/ssm-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manage/ssm-manage-web/ssm-manage-web.iml" filepath="$PROJECT_DIR$/ssm-manage/ssm-manage-web/ssm-manage-web.iml" />
+    </modules>
+  </component>
+</project>
